@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zomboyd
 - 👀 I’m interested in art
-- 🌱 I’m currently learning the aws stack
-- 💞️ I’m looking to collaborate on ...tbd
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the platform engineering world
 
 <!---
 zomboyd/zomboyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
